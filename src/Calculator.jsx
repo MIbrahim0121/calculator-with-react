@@ -25,6 +25,7 @@ const Calculator = () => {
 
   return (
     <div className="calculator">
+      
       <div className="box">
         <input
           type="text"
